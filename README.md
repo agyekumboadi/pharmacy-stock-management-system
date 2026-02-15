@@ -1,13 +1,13 @@
 # Pharmacy Stock Management System (Aronium POS) 🇬🇭
 
-A practical, Ghana-focused **pharmacy retail + inventory + reporting** setup built on **Aronium POS**, with real screenshots and sample exports that show how the system was configured to:
+A practical, **pharmacy retail + inventory + reporting** setup built on **Aronium POS**, with real screenshots and sample exports that show how the system was configured to:
 
 - manage **3,118 products** across **Pharmaceuticals** and **Non-pharmaceuticals**
 - track **available stock value in Ghana Cedis (GHS)**
-- run **sales**, accept **Cash & Mobile Money**
+- run **sales**, accept **Cash & [Mobile Money](https://www.blackpenman.com/2026/01/complete-guide-to-mobile-money-in-ghana.html).**
 - enforce **user access controls**
 - generate **dashboards and reports**
-- launch **health-driven promotions** (Malaria medicines + Condoms) during **Xmas & Easter**
+- launch **health-driven promotions** ([Malaria](https://www.severemalaria.org/countries/ghana) medicines + [Condoms](https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/stis/prevention/condoms)) during **Xmas & Easter**
 
 > This repository is written as a **story + evidence pack**: it shows the system like a reader is “walking through the shop” — from checkout, to stock, to reporting, to security, to backups.
 
@@ -15,16 +15,16 @@ A practical, Ghana-focused **pharmacy retail + inventory + reporting** setup bui
 
 ## The Story: Why this system exists
 
-In many parts of Ghana (and across Africa), a pharmacy is more than a shop — it’s often the **closest, fastest healthcare touchpoint**.
+In many parts of Ghana (and across Africa), a pharmacy is more than a shop, it’s often the **closest, fastest healthcare touchpoint**.
 
 But the day-to-day reality can be rough:
 - customers queueing while staff search shelves manually
-- stock levels remembered “in the head”
+- stock levels remembered “in the head” or "shelf numbering"
 - cashbook entries that don’t match the shelf
 - difficulty knowing **what sells**, **what is expiring**, and **where money leaks**
 - weak accountability when multiple staff use the same machine
 
-This project documents how **PHAnford** moved from “manual guesswork” to a more structured, auditable setup using **Aronium POS** — without needing expensive enterprise software.
+This project documents how **PHAnford** moved from “manual guesswork” to a more structured, auditable setup using **Aronium POS** - without needing expensive enterprise software.
 
 ---
 
@@ -128,7 +128,7 @@ Screenshots:
 
 ---
 
-### ✅ E. Accountability: users, roles, and audit trails
+### E. Accountability: users, roles, and audit trails
 When multiple staff sell on the same system, accountability matters.
 
 This repo documents:
@@ -144,7 +144,7 @@ Screenshots:
 
 ---
 
-### ✅ F. Resilience: database backup setup
+### F. Resilience: database backup setup
 A pharmacy system must survive:
 - power interruptions
 - sudden restarts
@@ -160,7 +160,7 @@ Screenshots:
 
 ---
 
-## 🎄🐣 Promotions With Purpose: Xmas & Easter (Malaria + Condoms)
+## Promotions With Purpose: Xmas & Easter (Malaria + Condoms)
 
 This repository highlights two targeted promotions:
 - **Xmas Promo** (December window)
@@ -171,7 +171,7 @@ These promotions were configured on:
 2) **Condom brands**
 
 Why this matters (health + business):
-- Malaria remains a major cause of illness and death in many African contexts — price reductions during peak buying periods can encourage earlier treatment purchases (where appropriate).
+- Malaria remains a major cause of illness and death in many African contexts - price reductions during peak buying periods can encourage earlier treatment purchases (where appropriate).
 - Condom promotions support prevention efforts for **STIs** such as:
   - **HIV**
   - **Gonorrhoea**
@@ -195,7 +195,7 @@ Screenshots:
 
 ---
 
-## 🗂 Suggested Repo Structure
+## Suggested Repo Structure
 
 ```text
 .
