@@ -207,3 +207,14 @@ Screenshots:
     ├── README.md
     ├── PHAnford_Products(Pharm&NonPharam).csv
     └── PHAnford_Stock(Pharm&NonPharam).xlsx
+```
+---
+
+## Author
+**Samuel Boadi Agyekum**  
+Data Analytics & IT Security (MSc) | Operational Data Systems | Compliance-minded Delivery  
+
+I build practical, real-world systems that turn everyday operations into measurable data, from stock valuation and sales audit trails to user access control and reporting. This repo documents how a pharmacy workflow can be structured using Aronium POS, balancing business performance with public-health impact (malaria and STI prevention product accessibility).  
+- Location: London, UK (Project context: Ghana)  
+- LinkedIn: https://www.linkedin.com/in/samuel-agyekum-388a82150  
+- GitHub: https://github.com/agyekumboadi
