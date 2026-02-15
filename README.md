@@ -9,7 +9,7 @@ A practical, **pharmacy retail + inventory + reporting** setup built on **Aroniu
 - generate **dashboards and reports**
 - launch **health-driven promotions** ([Malaria](https://www.severemalaria.org/countries/ghana) medicines + [Condoms](https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/stis/prevention/condoms)) during **Xmas & Easter**
 
-> This repository is written as a **story + evidence pack**: it shows the system like a reader is “walking through the shop” — from checkout, to stock, to reporting, to security, to backups.
+> This repository is written as a **story + evidence pack**: it shows the system like a reader is “walking through the shop” - from checkout, to stock, to reporting, to security, to backups.
 
 ---
 
