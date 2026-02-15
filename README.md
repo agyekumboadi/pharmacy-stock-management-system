@@ -1,4 +1,4 @@
-# Pharmacy Stock Management System (Aronium POS) 🇬🇭
+# Pharmacy Stock Management System (Aronium POS)
 
 A practical, **pharmacy retail + inventory + reporting** setup built on **Aronium POS**, with real screenshots and sample exports that show how the system was configured to:
 
