@@ -2,7 +2,7 @@
 
 A practical, **pharmacy retail + inventory + reporting** setup built on **Aronium POS**, with real screenshots and sample exports that show how the system was configured to:
 
-- manage **3,118 products** across **Pharmaceuticals** and **Non-pharmaceuticals**
+- manage **3,118 products** across **pharmaceutical** and **non-pharmaceutical products**
 - track **available stock value in Ghana Cedis (GHS)**
 - run **sales**, accept **Cash & [Mobile Money](https://www.blackpenman.com/2026/01/complete-guide-to-mobile-money-in-ghana.html).**
 - enforce **user access controls**
